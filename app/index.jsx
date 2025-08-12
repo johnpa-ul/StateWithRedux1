@@ -103,7 +103,7 @@ function ThemedApp() {
    ...baseTheme,
    colors: {
     ...baseTheme.colors,
-    primary: "#1cb4adff",
+    primary: "#130c81ff",
     onPrimary: "white",
    },
   };
